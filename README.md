@@ -6,7 +6,6 @@
 <div>
   <a href="https://github.com/AleksanderRomero">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AleksanderRomero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AleksanderRomero&layout=compact&langs_count=6&theme=react"/>
 </div>
     
 <div style="display: inline_block"><br>
