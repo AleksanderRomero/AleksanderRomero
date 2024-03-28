@@ -1,13 +1,6 @@
 ### Olá, eu sou Aleksander.
 ## Bem-vindo(a) ao meu perfil! 😉
 
-<br>
-
-<div>
-  <a href="https://github.com/AleksanderRomero">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AleksanderRomero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
