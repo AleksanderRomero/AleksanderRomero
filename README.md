@@ -1,5 +1,7 @@
 ### Hello, I'm Aleksander.
-## Welcome to my profile! 😉
+## Welcome to my profile! 🚀
+
+###### Join me on this journey into the unknown, where curiosity is my compass and innovation is my guiding star. 💫
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
